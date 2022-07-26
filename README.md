@@ -1,2 +1,2 @@
 # Hyperblog-2
-un blog incrreibe aprendido en el curso de git y github
+un blog increiblee aprendido en el curso de git y github
